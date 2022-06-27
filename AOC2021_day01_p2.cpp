@@ -21,21 +21,6 @@ int main()
 			numbers.emplace_back(buffer); // transfer to a string vector
 		}
 	}
-
-	// read each item in numbers, convert to an int, and print to cout
-	//for (std::string str_num : numbers)
-	//{
-	//	int number = std::stoi(str_num);
-	//	std::cout << number << std::endl;
-	//}
-
-	// Print the result of numbers[0] + numbers[1] + numbers[2] as ints
-	//std::cout << (
-	//	std::stoi(numbers.at(0)) + 
-	//	std::stoi(numbers.at(1)) +
-	//	std::stoi(numbers.at(2))
-	//		) << std::endl;
-	
 	
 	int previous_item = 999999999;
 	int increase_count = 0;
