@@ -17,9 +17,9 @@
 // - [/] Parse data to a vec 
 // - [/] Rotate array 90 degrees
 // - [/] Convert each binary number to decimal for Gamma Rate
-// - [ ] Flip binary number and convert to decimal for Epsilon Rate
-// - [ ] Multiply the Gamma Rate and Epsilon Rate together
-// - [ ] Return result
+// - [/] Flip binary number and convert to decimal for Epsilon Rate
+// - [/] Multiply the Gamma Rate and Epsilon Rate together
+// - [/] Return result
 
 std::vector<std::string> GetInputValues()
 {
